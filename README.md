@@ -7,6 +7,9 @@
 * emphasize
 * a
 * *adasdas
+* bullet
+* another bullet
+* 
 ****emphazize****
 asdasd sadasda
 # testing
